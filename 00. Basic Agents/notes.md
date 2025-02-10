@@ -15,3 +15,19 @@ Elements of good tools. Versatile, Fault tolerant, Caching
 
 Tools -- search the internet, scrap a website, connect to a database, call an api, send notifications
 Tools are a cornerstone
+
+
+Task Customisation Options:
+- Clear description of task
+- Set a clear and concise expectation
+- Set context
+- Set a callback
+- Override Agent tools with specific task tools
+- Force human input before end of task
+- Execute asynchronously
+- Output as PyDantic
+- Output as JSON
+- Output as File
+- Run in parallel
+
+- We organise the tasks and not the agents. For example, tasks can run in parallel and in 
